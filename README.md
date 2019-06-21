@@ -1,5 +1,4 @@
 # Dados
-Practica de programación JS
 
 ## Proyecto de dados tirados al azar
 
