@@ -3,6 +3,7 @@ Practica de programación JS
 
 Proyecto de dados tirados al azar
 
-Modificación para realizar un pull desde eclipse
+### reglas del juego
+  Apretar el boton para iniciar el juego.
 
 CopyRight Quim Aymerich
